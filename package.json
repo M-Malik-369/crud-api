@@ -1,0 +1,18 @@
+{
+  "name": "crud-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "addData.js",
+  "scripts": {
+    "start": "npm app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "MuhammadMalik",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.6.0"
+  }
+}
